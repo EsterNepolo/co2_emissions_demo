@@ -192,6 +192,8 @@ fig_map.show()
 
 Below, we place our results into a tabbed interface.
 
+
+
 ::: {.panel-tabset}
 
 ## Table
