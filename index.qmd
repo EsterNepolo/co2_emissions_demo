@@ -192,13 +192,15 @@ fig_map.show()
 
 Below, we place our results into a tabbed interface.
 
----
-title: "CO2 Emissions Report"
-author: "Ester Nepolo"
+::: {.panel-tabset}
+
+## Table
 
 ```{python}
 show(table_df)
 ```
+
+## Chart
 
 ```{python}
 fig_chart.show()
